@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : "sc:Manifest",
-    "@id" : "https://cosaw2.github.io/will/manifests/jw-will.json",
-    "label" : "Will of John Walker (1753-1823)"
-  } ]
+  "items" : [ ]
 }
