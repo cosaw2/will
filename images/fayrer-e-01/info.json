@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 198,
+    "height" : 220
+  }, {
+    "width" : 396,
+    "height" : 440
+  }, {
+    "width" : 791,
+    "height" : 880
+  }, {
+    "width" : 1582,
+    "height" : 1760
+  }, {
+    "width" : 3164,
+    "height" : 3520
+  }, {
+    "width" : 6328,
+    "height" : 7040
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6328,
+  "@id" : "https://cosaw2.github.io/will/images/fayrer-e-01",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 7040
+}
