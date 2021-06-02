@@ -1,0 +1,66 @@
+{
+  "id" : "https://cosaw2.github.io/will/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in cosaw2/will project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 6328,
+    "id" : "https://cosaw2.github.io/will/images/fayrer-e-01/canvas/",
+    "label" : {
+      "none" : [ "fayrer-e-01" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://cosaw2.github.io/will/images/fayrer-e-01/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://cosaw2.github.io/will/images/fayrer-e-01/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 198,
+              "height" : 220
+            }, {
+              "width" : 396,
+              "height" : 440
+            }, {
+              "width" : 791,
+              "height" : 880
+            }, {
+              "width" : 1582,
+              "height" : 1760
+            }, {
+              "width" : 3164,
+              "height" : 3520
+            }, {
+              "width" : 6328,
+              "height" : 7040
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 6328,
+            "@id" : "https://cosaw2.github.io/will/images/fayrer-e-01",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 7040
+          } ],
+          "format" : "image/jpeg",
+          "width" : 6328,
+          "id" : "https://cosaw2.github.io/will/images/fayrer-e-01/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 7040
+        },
+        "target" : "https://cosaw2.github.io/will/images/fayrer-e-01/canvas/"
+      } ]
+    } ],
+    "height" : 7040
+  } ]
+}
